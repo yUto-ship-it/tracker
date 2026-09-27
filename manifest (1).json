@@ -1,0 +1,16 @@
+{
+  "background_color": "#f5efef",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "tracker-yuto.vercel",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "tracker-yuto.vercel",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "Overview: A modern, sleek web application designed to track and manage daily personal finances, income, and expenses efficiently.\n\nCore Features:\n\nReal-time calculation of total balance, total income, and total expenses.\n\nEasy categorization of transactions (e.g., food, transport, shopping, healthcare, housing, and salary).\n\nFilter options to seamlessly view all transactions, expenses, or income separately.\n\nData Storage: Uses browser LocalStorage to save all financial records locally, ensuring data safety even after refreshing or closing the browser tab.\n\nExport Capability: Features a built-in PDF export tool (html2pdf) that lets users generate and download neat financial summary reports.",
+  "id": "09683323297",
+  "categories": [
+    "finance"
+  ]
+}
